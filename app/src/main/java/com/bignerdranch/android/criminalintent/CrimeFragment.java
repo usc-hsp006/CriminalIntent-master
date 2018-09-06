@@ -61,7 +61,7 @@ public class CrimeFragment extends Fragment{
             @Override
             public void beforeTextChanged(
                     CharSequence s, int start, int count, int after) {
-                    // left blank
+                    
             }
 
             @Override
